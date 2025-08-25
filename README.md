@@ -1,12 +1,5 @@
-# .github.io
-RMIT Bachelor of Business (Finance) Senior | CFA Level 1 candidate | Financial Analyst | Techcombank Future Gen Candidate 
 # Trần Lê Thu Giang  
-
-🎓 Senior, RMIT University (Bachelor of Business - Finance, Minor in Digital Marketing)  
-📊 Aspiring Financial Analyst | Data & Digital Enthusiast | Future Business Leader  
-📈 CFA Level 1 Candidate | Techcombank Future Gen Candidate  
-
----
+RMIT Bachelor of Business (Finance) Senior | CFA Level 1 candidate | Financial Analyst | Techcombank Future Gen Candidate 
 
 ## 👩‍💻 About Me  
 I am passionate about building expertise at the intersection of **business, data, digital innovation, and leadership**.  
@@ -14,9 +7,8 @@ Through academic projects, internships, and leadership roles, I have gained skil
 
 I am energized by **complex challenges** and aim to become a well-rounded leader with a cross-functional vision through **Techcombank’s Future Gen Program**.  
 
----
 
-## 🛠 Skills (Mapped to Future Gen Streams)  
+## 🛠 Skills  
 
 **Tech & Digital**  
 - Product Design Thinking | Digital Marketing | Agile Collaboration  
