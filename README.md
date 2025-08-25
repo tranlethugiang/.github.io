@@ -33,7 +33,7 @@ I am energized by **complex challenges** and aim to become a well-rounded leader
 **Customer Journey Optimization (RMIT Project)**  
 - Designed a digital campaign strategy integrating customer insights.  
 - Applied design thinking and digital marketing principles to enhance engagement.  
-🔗 [View Project Repository](#)  
+🔗 Company Valuation (FPT)
 
 
 ### 📊 Data  
